@@ -26,31 +26,17 @@ I'm particularly interested in the layer between **"the model can do it"** and *
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### AI / ML
 
-`Python` · `SQL`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-**Generative AI**
+### GenAI & AI Engineering
 
-`LLMs` · `RAG` · `Agentic AI` · `Prompt Engineering` · `Context Engineering` · `Harness Engineering` · `DSPy` · `Multi-Modal LLMs` · `VLMs` · `MCP`
+`LLMs` · `RAG` · `Agentic AI` · `LangChain` · `LangGraph` · `DSPy` · `VLMs` · `MCP`
 
-**AI / ML**
+### Backend, Data & Cloud
 
-`PyTorch` · `TensorFlow` · `Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Causal Reasoning`
-
-**Frameworks**
-
-`LangChain` · `LangGraph` · `FastAPI` · `Streamlit`
-
-**Vector & Data**
-
-`PGVector` · `FAISS` · `ChromaDB` · `PostgreSQL` · `Supabase` · `MongoDB`
-
-**Cloud & Infrastructure**
-
-`AWS` · `Azure` · `Google Cloud` · `Docker` · `Apache Airflow`
-
----
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,mongodb,aws,azure,gcp,docker,git" />
 
 ## 🚀 Selected Work
 
