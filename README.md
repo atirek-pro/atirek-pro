@@ -72,7 +72,7 @@ I'm particularly interested in the layer between **"the model can do it"** and *
 **arXiv Preprint · May 2026 · Co-Author**
 
 Research focused on **semantic loss functions, causal reasoning, transformer fine-tuning, neuro-symbolic AI, and adversarial evaluation**.
-<a href="https://arxiv.org/abs/2605.05438"></a>
+<a href="https://arxiv.org/abs/2605.05438">📄 Read the paper on arXiv</a>
 
 **Authors:** Pratik Deshmukh · Atirek Gupta
 
