@@ -99,6 +99,9 @@ If you're working on **Generative AI, Agentic AI, RAG, Multimodal AI, AI infrast
   <a href="https://github.com/atirek-pro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/aibyatirek/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 > **The goal isn't to build AI that looks impressive in a demo.
